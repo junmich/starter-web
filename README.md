@@ -18,4 +18,4 @@ Follow the instruction to deploy
 Just contribute
 
 ### Copyright
-2020 Git.Training
+2020 Git.Training All Rights Reserve
