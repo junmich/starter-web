@@ -13,6 +13,7 @@ Follow the instruction to deploy
 
 
 ## How To Contribute
+Just contribute
 
 ### Copyright
 2020 Git.Training
